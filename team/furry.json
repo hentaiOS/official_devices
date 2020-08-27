@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Arseniy Graur",
+        "avatar": "https://avatars1.githubusercontent.com/u/21083089?s=460&u=6386ebc2671acf4786d6a0cda6c25becd5a7d6dd&v=4",
+        "country": "RU",
+        "github_username": "argraur",
+        "designation": "Co-Founder",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=6881528",
+        "devices": []
+    },
+    {
+        "name": "Atharva Unde",
+        "avatar": "https://avatars3.githubusercontent.com/u/19168610?s=460&u=22688f96dd5f104622baa6788797c4516cb95b49&v=4",
+        "country": "IN",
+        "github_username": "atharvaunde59",
+        "designation": "FurOps (WebOps)",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=6043811",
+        "devices": []
+    },
+    {
+        "name": "Danielle",
+        "avatar": "https://avatars2.githubusercontent.com/u/40296389?s=460&u=4dd24d8762afce50e94e28d784dc97ea630e0116&v=4",
+        "country": "IN",
+        "github_username": "iamsaalim",
+        "designation": "Leagacy Furry",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=9254143",
+        "devices": []
+    },
+    {
+        "name": "Dyneteve",
+        "avatar": "https://avatars3.githubusercontent.com/u/32036579?s=460&u=70ec29eaff2e868149f9b273ec6cbaafad1908db&v=4",
+        "country": "RO",
+        "github_username": "dyneteve",
+        "designation": "Second Co-Founder",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=7571048",
+        "devices": [
+            {
+                "codename": "violet",
+                "versions": [
+                    "ten"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jago",
+        "avatar": "https://avatars3.githubusercontent.com/u/23172221?s=460&u=4341c19abac34f5fb62bbe93c56c39d4c84b834b&v=4",
+        "country": "GB-CON",
+        "github_username": "nysascape",
+        "designation": "Pixel Furry",
+        "xda_url": "",
+        "devices": [
+            {
+                "codename": "blueline",
+                "versions": [
+                    "ten"
+                ]
+            },
+            {
+                "codename": "crosshatch",
+                "versions": [
+                    "ten"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "あきと (Real Akito)",
+        "avatar": "https://avatars1.githubusercontent.com/u/44841395?s=460&u=ee502935c0afd1584be877020c1b41d49d7f78ef&v=4",
+        "country": "JP",
+        "github_username": "RealAkito",
+        "designation": "LegalOps",
+        "xda_url": "",
+        "devices": []
+    },
+    {
+        "name": "Raphiel Rollerscaperers",
+        "avatar": "https://avatars1.githubusercontent.com/u/23637682?s=460&u=5818c2616f6c9a47fa499c3f4a41508cdce78e6b&v=4",
+        "country": "DE",
+        "github_username": "raphielscape",
+        "designation": "Your friendly Lombax neighbor",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=8860428",
+        "devices": []
+    },
+    {
+        "name": "Spherical Flying Kat",
+        "avatar": "https://avatars3.githubusercontent.com/u/31761843?s=460&u=cbbff6b6a03a2a69141ee1a3aad9239f696eab02&v=4",
+        "country": "IN",
+        "github_username": "raphielscape",
+        "designation": "FurOps (AppOps)",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=6754044",
+        "devices": []
+    }
+]
