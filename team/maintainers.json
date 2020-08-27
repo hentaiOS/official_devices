@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Dyneteve",
+        "avatar": "https://avatars3.githubusercontent.com/u/32036579?s=460&u=70ec29eaff2e868149f9b273ec6cbaafad1908db&v=4",
+        "country": "RO",
+        "github_username": "dyneteve",
+        "designation": "Second Co-Founder",
+        "xda_url": "https://forum.xda-developers.com/member.php?u=7571048",
+        "devices": [
+            {
+                "codename": "violet",
+                "versions": [
+                    "ten"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jago",
+        "avatar": "https://avatars3.githubusercontent.com/u/23172221?s=460&u=4341c19abac34f5fb62bbe93c56c39d4c84b834b&v=4",
+        "country": "GB-CON",
+        "github_username": "nysascape",
+        "designation": "Pixel Furry",
+        "xda_url": "",
+        "devices": [
+            {
+                "codename": "blueline",
+                "versions": [
+                    "ten"
+                ]
+            },
+            {
+                "codename": "crosshatch",
+                "versions": [
+                    "ten"
+                ]
+            }
+        ]
+    }
+]
